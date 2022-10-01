@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name=" UI Bank Application Automation Suite">
+<listeners>
+
+<listener class-name="UtilitiesTest.Reporting"></listener>
+
+
+
+</listeners>
+
+  <test thread-count="5" name="UI Bank application test">
+  
+    <classes>
+    
+          <class name="Tescases.LoginPageTest"/>
+          <class name="Tescases.LoginPageDDTest2"/>
+     	  <class name="Tescases.HomePageTest"/> 
+         <class name="Tescases.ApplyLoanPageWay1Test"/>
+         <class name="Tescases.ApplyLoanPageWay2Test"/>
+         <class name="Tescases.TransferfundPageTest"/> 
+        <class name="Tescases.RegisterationPageTest"/> 
+        <class name="Tescases.NewAccountCreationPageTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+ 
+</suite> <!-- Suite -->

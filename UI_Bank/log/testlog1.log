@@ -1,0 +1,395 @@
+2022-09-29 13:46:03,618 [main] INFO uibank - Verifying loginpag test
+2022-09-29 13:46:26,420 [main] INFO uibank - verifying login logo test
+2022-09-29 13:47:57,255 [main] INFO uibank - Verifying loginpage Tittle test
+2022-09-29 13:47:57,415 [main] INFO uibank - verifying login logo test
+2022-09-29 13:48:00,453 [main] INFO uibank - username and password entered
+2022-09-29 14:20:05,365 [main] INFO uibank - Verifying loginpage Tittle test
+2022-09-29 14:20:05,653 [main] INFO uibank - verifying login logo test
+2022-09-29 14:20:07,398 [main] INFO uibank - username and password entered
+2022-09-29 21:14:24,365 [main] INFO uibank - Verifying loginpage Tittle test
+2022-09-29 21:14:25,655 [main] INFO uibank - screenshot Taken
+2022-09-29 21:14:25,701 [main] INFO uibank - verifying login logo test
+2022-09-29 21:14:29,004 [main] INFO uibank - username and password entered
+2022-09-29 21:31:35,667 [main] INFO uibank - Verifying loginpage Tittle test
+2022-09-29 21:31:35,921 [main] WARN uibank - TestCase Failed
+2022-09-29 21:31:37,786 [main] INFO uibank - screenshot Taken
+2022-09-29 21:31:38,070 [main] INFO uibank - verifying login logo test
+2022-09-29 21:31:41,320 [main] INFO uibank - username and password entered
+2022-09-29 21:38:36,375 [main] INFO uibank - Verifying loginpage Tittle test
+2022-09-29 21:38:36,566 [main] WARN uibank - TestCase Failed
+2022-09-29 21:38:39,326 [main] INFO uibank - screenshot Taken
+2022-09-29 21:38:39,781 [main] INFO uibank - verifying login logo test
+2022-09-29 21:38:45,951 [main] INFO uibank - username and password entered
+2022-09-30 22:34:59,982 [main] INFO uibank - first  name provided
+2022-09-30 22:35:00,484 [main] INFO uibank - Tittle provided
+2022-09-30 22:35:00,661 [main] INFO uibank - middle  name provided
+2022-09-30 22:35:01,164 [main] INFO uibank - last name provided
+2022-09-30 22:35:01,315 [main] INFO uibank - Gender provided
+2022-09-30 22:35:01,614 [main] INFO uibank - employement details provided
+2022-09-30 22:35:02,570 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 22:35:02,687 [main] INFO uibank - Marital provided
+2022-09-30 22:35:02,799 [main] INFO uibank -  number of Dependent provided
+2022-09-30 22:35:02,974 [main] INFO uibank - User name provided
+2022-09-30 22:35:03,404 [main] INFO uibank - Mail id provided
+2022-09-30 22:35:03,405 [main] INFO uibank - Password provided
+2022-09-30 22:35:23,752 [main] INFO uibank - first  name provided
+2022-09-30 22:35:23,856 [main] INFO uibank - Tittle provided
+2022-09-30 22:35:23,915 [main] INFO uibank - middle  name provided
+2022-09-30 22:35:24,086 [main] INFO uibank - last name provided
+2022-09-30 22:35:24,143 [main] INFO uibank - Gender provided
+2022-09-30 22:35:24,261 [main] INFO uibank - employement details provided
+2022-09-30 22:35:24,389 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 22:35:24,618 [main] INFO uibank - Marital provided
+2022-09-30 22:35:24,720 [main] INFO uibank -  number of Dependent provided
+2022-09-30 22:35:24,720 [main] INFO uibank - User name provided
+2022-09-30 22:35:24,920 [main] INFO uibank - Mail id provided
+2022-09-30 22:35:24,920 [main] INFO uibank - Password provided
+2022-09-30 22:39:44,385 [main] INFO uibank - first  name provided
+2022-09-30 22:39:44,917 [main] INFO uibank - Tittle provided
+2022-09-30 22:39:45,090 [main] INFO uibank - middle  name provided
+2022-09-30 22:39:45,277 [main] INFO uibank - last name provided
+2022-09-30 22:39:45,426 [main] INFO uibank - Gender provided
+2022-09-30 22:39:45,584 [main] INFO uibank - employement details provided
+2022-09-30 22:39:45,812 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 22:39:45,963 [main] INFO uibank - Marital provided
+2022-09-30 22:39:46,136 [main] INFO uibank -  number of Dependent provided
+2022-09-30 22:39:46,151 [main] INFO uibank - User name provided
+2022-09-30 22:39:46,521 [main] INFO uibank - Mail id provided
+2022-09-30 22:39:46,522 [main] INFO uibank - Password provided
+2022-09-30 22:40:06,772 [main] INFO uibank - first  name provided
+2022-09-30 22:40:06,851 [main] INFO uibank - Tittle provided
+2022-09-30 22:40:06,906 [main] INFO uibank - middle  name provided
+2022-09-30 22:40:07,268 [main] INFO uibank - last name provided
+2022-09-30 22:40:07,365 [main] INFO uibank - Gender provided
+2022-09-30 22:40:07,534 [main] INFO uibank - employement details provided
+2022-09-30 22:40:07,713 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 22:40:07,891 [main] INFO uibank - Marital provided
+2022-09-30 22:40:08,577 [main] INFO uibank -  number of Dependent provided
+2022-09-30 22:40:08,578 [main] INFO uibank - User name provided
+2022-09-30 22:40:08,961 [main] INFO uibank - Mail id provided
+2022-09-30 22:40:08,962 [main] INFO uibank - Password provided
+2022-09-30 22:49:49,589 [main] INFO uibank - first  name provided
+2022-09-30 22:49:54,201 [main] INFO uibank - Tittle provided
+2022-09-30 22:49:54,595 [main] INFO uibank - middle  name provided
+2022-09-30 22:49:54,877 [main] INFO uibank - last name provided
+2022-09-30 22:49:55,295 [main] INFO uibank - Gender provided
+2022-09-30 22:49:55,759 [main] INFO uibank - employement details provided
+2022-09-30 22:49:56,131 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 22:49:56,272 [main] INFO uibank - Marital provided
+2022-09-30 22:49:56,967 [main] INFO uibank -  number of Dependent provided
+2022-09-30 22:49:57,295 [main] INFO uibank - User name provided
+2022-09-30 22:49:57,648 [main] INFO uibank - Mail id provided
+2022-09-30 22:49:58,024 [main] INFO uibank - Password provided
+2022-09-30 22:50:18,512 [main] INFO uibank - first  name provided
+2022-09-30 22:50:18,617 [main] INFO uibank - Tittle provided
+2022-09-30 22:50:18,695 [main] INFO uibank - middle  name provided
+2022-09-30 22:50:18,880 [main] INFO uibank - last name provided
+2022-09-30 22:50:18,944 [main] INFO uibank - Gender provided
+2022-09-30 22:50:19,211 [main] INFO uibank - employement details provided
+2022-09-30 22:50:19,362 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 22:50:19,531 [main] INFO uibank - Marital provided
+2022-09-30 22:50:19,613 [main] INFO uibank -  number of Dependent provided
+2022-09-30 22:50:19,767 [main] INFO uibank - User name provided
+2022-09-30 22:50:19,997 [main] INFO uibank - Mail id provided
+2022-09-30 22:50:20,181 [main] INFO uibank - Password provided
+2022-09-30 23:02:28,244 [main] INFO uibank - first  name provided
+2022-09-30 23:02:29,462 [main] INFO uibank - Tittle provided
+2022-09-30 23:02:29,876 [main] INFO uibank - middle  name provided
+2022-09-30 23:02:30,294 [main] INFO uibank - last name provided
+2022-09-30 23:02:30,471 [main] INFO uibank - Gender provided
+2022-09-30 23:02:30,700 [main] INFO uibank - employement details provided
+2022-09-30 23:02:30,904 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 23:02:31,166 [main] INFO uibank - Marital provided
+2022-09-30 23:02:31,438 [main] INFO uibank -  number of Dependent provided
+2022-09-30 23:02:31,932 [main] INFO uibank - User name provided
+2022-09-30 23:02:32,430 [main] INFO uibank - Mail id provided
+2022-09-30 23:02:32,783 [main] INFO uibank - Password provided
+2022-09-30 23:02:32,870 [main] INFO uibank - Register submit button clicked
+2022-09-30 23:02:33,815 [main] INFO uibank - screenshot Taken
+2022-09-30 23:02:34,383 [main] INFO uibank - first  name provided
+2022-09-30 23:08:13,986 [main] INFO uibank - Verifying loginpage Tittle test
+2022-09-30 23:08:14,802 [main] INFO uibank - verifying login logo test
+2022-09-30 23:08:16,657 [main] INFO uibank - username and password entered
+2022-09-30 23:08:56,676 [main] INFO uibank - first  name provided
+2022-09-30 23:08:57,232 [main] INFO uibank - Tittle provided
+2022-09-30 23:08:57,530 [main] INFO uibank - middle  name provided
+2022-09-30 23:08:57,794 [main] INFO uibank - last name provided
+2022-09-30 23:08:57,993 [main] INFO uibank - Gender provided
+2022-09-30 23:08:58,222 [main] INFO uibank - employement details provided
+2022-09-30 23:08:58,490 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 23:08:58,644 [main] INFO uibank - Marital provided
+2022-09-30 23:08:58,774 [main] INFO uibank -  number of Dependent provided
+2022-09-30 23:08:59,192 [main] INFO uibank - User name provided
+2022-09-30 23:08:59,497 [main] INFO uibank - Mail id provided
+2022-09-30 23:08:59,708 [main] INFO uibank - Password provided
+2022-09-30 23:08:59,792 [main] INFO uibank - Register submit button clicked
+2022-09-30 23:09:00,481 [main] INFO uibank - screenshot Taken
+2022-09-30 23:15:09,113 [main] INFO uibank - first  name provided
+2022-09-30 23:15:09,881 [main] INFO uibank - Tittle provided
+2022-09-30 23:15:10,048 [main] INFO uibank - middle  name provided
+2022-09-30 23:15:10,463 [main] INFO uibank - last name provided
+2022-09-30 23:15:10,673 [main] INFO uibank - Gender provided
+2022-09-30 23:15:10,878 [main] INFO uibank - employement details provided
+2022-09-30 23:15:11,122 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 23:15:11,320 [main] INFO uibank - Marital provided
+2022-09-30 23:15:11,638 [main] INFO uibank -  number of Dependent provided
+2022-09-30 23:15:12,351 [main] INFO uibank - User name provided
+2022-09-30 23:15:12,672 [main] INFO uibank - Mail id provided
+2022-09-30 23:15:12,952 [main] INFO uibank - Password provided
+2022-09-30 23:15:13,241 [main] INFO uibank - Register submit button clicked
+2022-09-30 23:15:14,707 [main] INFO uibank - screenshot Taken
+2022-09-30 23:16:52,434 [main] INFO uibank - first  name provided
+2022-09-30 23:16:52,952 [main] INFO uibank - Tittle provided
+2022-09-30 23:16:53,272 [main] INFO uibank - middle  name provided
+2022-09-30 23:16:53,551 [main] INFO uibank - last name provided
+2022-09-30 23:16:53,760 [main] INFO uibank - Gender provided
+2022-09-30 23:16:53,980 [main] INFO uibank - employement details provided
+2022-09-30 23:16:54,266 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 23:16:54,513 [main] INFO uibank - Marital provided
+2022-09-30 23:16:54,829 [main] INFO uibank -  number of Dependent provided
+2022-09-30 23:16:55,201 [main] INFO uibank - User name provided
+2022-09-30 23:16:55,527 [main] INFO uibank - Mail id provided
+2022-09-30 23:16:56,023 [main] INFO uibank - Password provided
+2022-09-30 23:16:56,441 [main] INFO uibank - Register submit button clicked
+2022-09-30 23:16:57,394 [main] INFO uibank - screenshot Taken
+2022-09-30 23:19:30,162 [main] INFO uibank - first  name provided
+2022-09-30 23:19:30,358 [main] INFO uibank - Tittle provided
+2022-09-30 23:19:30,633 [main] INFO uibank - middle  name provided
+2022-09-30 23:19:31,042 [main] INFO uibank - last name provided
+2022-09-30 23:19:31,289 [main] INFO uibank - Gender provided
+2022-09-30 23:19:31,738 [main] INFO uibank - employement details provided
+2022-09-30 23:19:32,010 [main] INFO uibank - Date OF Birth  provided
+2022-09-30 23:19:32,186 [main] INFO uibank - Marital provided
+2022-09-30 23:19:32,404 [main] INFO uibank -  number of Dependent provided
+2022-09-30 23:19:32,680 [main] INFO uibank - User name provided
+2022-09-30 23:19:33,005 [main] INFO uibank - Mail id provided
+2022-09-30 23:19:33,337 [main] INFO uibank - Password provided
+2022-09-30 23:19:33,439 [main] INFO uibank - Register submit button clicked
+2022-10-01 09:48:02,153 [main] INFO uibank - Loan Applied
+2022-10-01 09:48:32,509 [main] INFO uibank - Loan Applied
+2022-10-01 09:48:53,547 [main] INFO uibank - Loan Applied
+2022-10-01 09:49:13,246 [main] INFO uibank - Loan Applied
+2022-10-01 09:57:40,023 [main] INFO uibank - Loan Applied
+2022-10-01 10:21:17,311 [main] INFO uibank - Loan Applied
+2022-10-01 10:32:53,506 [main] INFO uibank - Loan Applied
+2022-10-01 10:33:44,035 [main] INFO uibank - Loan Applied
+2022-10-01 10:37:20,627 [main] INFO uibank - Loan Applied
+2022-10-01 10:37:49,325 [main] INFO uibank - Loan Applied
+2022-10-01 10:38:19,014 [main] INFO uibank - Loan Applied
+2022-10-01 10:38:44,508 [main] INFO uibank - Loan Applied
+2022-10-01 11:50:33,498 [main] INFO uibank - USer Landed in New Account Creation page
+2022-10-01 11:57:41,596 [main] INFO uibank - USer Landed in New Account Creation page
+2022-10-01 12:01:42,065 [main] INFO uibank - USer Landed in New Account Creation page
+2022-10-01 12:02:07,479 [main] INFO uibank - New USer Name provided
+2022-10-01 12:02:08,377 [main] INFO uibank - Accoount type provided
+2022-10-01 12:02:10,486 [main] INFO uibank - submit button clicked
+2022-10-01 12:02:11,426 [main] INFO uibank - screenshot Taken
+2022-10-01 12:03:42,415 [main] INFO uibank - USer Landed in New Account Creation page
+2022-10-01 12:04:01,804 [main] INFO uibank - New USer Name provided
+2022-10-01 12:04:02,301 [main] INFO uibank - Accoount type provided
+2022-10-01 12:04:04,471 [main] INFO uibank - submit button clicked
+2022-10-01 12:04:08,295 [main] INFO uibank - screenshot Taken
+2022-10-01 12:07:18,396 [main] INFO uibank - New USer Name provided
+2022-10-01 12:07:19,077 [main] INFO uibank - Accoount type provided
+2022-10-01 12:07:21,346 [main] INFO uibank - submit button clicked
+2022-10-01 12:07:26,118 [main] INFO uibank - New Account was created
+2022-10-01 16:15:26,195 [main] INFO uibank - User logged in
+2022-10-01 16:16:15,292 [main] INFO uibank - User logged in
+2022-10-01 16:16:17,210 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:16:18,746 [main] INFO uibank - From option provided
+2022-10-01 16:16:18,934 [main] INFO uibank - TO option provided
+2022-10-01 16:16:19,422 [main] INFO uibank - Amount entered
+2022-10-01 16:16:20,017 [main] INFO uibank -  Conformation Required
+2022-10-01 16:16:23,044 [main] INFO uibank - Amount Transfered
+2022-10-01 16:28:06,681 [main] INFO uibank - Browser Opened
+2022-10-01 16:28:06,925 [main] INFO uibank - Verifying loginpage Tittle test
+2022-10-01 16:28:07,022 [main] INFO uibank - verifying login logo test
+2022-10-01 16:28:07,404 [main] INFO uibank - Verified Logo
+2022-10-01 16:28:09,223 [main] INFO uibank - username and password entered
+2022-10-01 16:28:09,232 [main] INFO uibank - Browser closed
+2022-10-01 16:29:35,681 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:29:39,868 [main] INFO uibank - Loan Applied
+2022-10-01 16:29:55,590 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:29:59,611 [main] INFO uibank - Loan Applied
+2022-10-01 16:30:13,299 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:30:17,327 [main] INFO uibank - Loan Applied
+2022-10-01 16:30:29,481 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:30:33,503 [main] INFO uibank - Loan Applied
+2022-10-01 16:30:58,290 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:31:02,330 [main] INFO uibank - Loan Applied
+2022-10-01 16:31:18,383 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:31:22,407 [main] INFO uibank - Loan Applied
+2022-10-01 16:31:42,574 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:31:46,607 [main] INFO uibank - Loan Applied
+2022-10-01 16:32:12,959 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:32:16,985 [main] INFO uibank - Loan Applied
+2022-10-01 16:32:27,892 [main] INFO uibank - User logged in
+2022-10-01 16:32:30,630 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:32:30,632 [main] INFO uibank - From option provided
+2022-10-01 16:32:41,725 [main] INFO uibank - User logged in
+2022-10-01 16:32:43,213 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:32:43,967 [main] INFO uibank - TO option provided
+2022-10-01 16:32:54,352 [main] INFO uibank - User logged in
+2022-10-01 16:32:56,021 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:32:56,808 [main] INFO uibank - From option provided
+2022-10-01 16:32:57,030 [main] INFO uibank - TO option provided
+2022-10-01 16:32:57,184 [main] INFO uibank - Amount entered
+2022-10-01 16:32:57,581 [main] INFO uibank -  Conformation Required
+2022-10-01 16:33:00,607 [main] INFO uibank - Amount Transfered
+2022-10-01 16:33:11,251 [main] INFO uibank - First  name provided
+2022-10-01 16:33:11,425 [main] INFO uibank - Mittle provided
+2022-10-01 16:33:11,651 [main] INFO uibank - middle  name provided
+2022-10-01 16:33:11,879 [main] INFO uibank - Last name provided
+2022-10-01 16:33:12,026 [main] INFO uibank - Gender provided
+2022-10-01 16:33:12,231 [main] INFO uibank - Employement details provided
+2022-10-01 16:33:12,427 [main] INFO uibank - Date OF Birth  provided
+2022-10-01 16:33:12,564 [main] INFO uibank - Marital provided
+2022-10-01 16:33:12,771 [main] INFO uibank - Number of Dependent provided
+2022-10-01 16:33:13,196 [main] INFO uibank - User name provided
+2022-10-01 16:33:13,454 [main] INFO uibank - Mail id provided
+2022-10-01 16:33:13,666 [main] INFO uibank - Password provided
+2022-10-01 16:33:13,790 [main] INFO uibank - Register submit button clicked
+2022-10-01 16:33:18,819 [main] INFO uibank - New User was Registered
+2022-10-01 16:33:32,719 [main] INFO uibank - USer Landed in New Account Creation page
+2022-10-01 16:33:44,193 [main] INFO uibank - New USer Name provided
+2022-10-01 16:33:44,390 [main] INFO uibank - Accoount type provided
+2022-10-01 16:33:46,609 [main] INFO uibank - submit button clicked
+2022-10-01 16:33:49,729 [main] INFO uibank - New Account was created
+2022-10-01 16:38:00,456 [main] INFO uibank - Browser Opened
+2022-10-01 16:38:00,778 [main] INFO uibank - Verifying loginpage Tittle test
+2022-10-01 16:38:01,140 [main] INFO uibank - verifying login logo test
+2022-10-01 16:38:01,605 [main] INFO uibank - Verified Logo
+2022-10-01 16:38:02,592 [main] INFO uibank - username and password entered
+2022-10-01 16:38:02,599 [main] INFO uibank - Browser closed
+2022-10-01 16:38:14,874 [main] INFO uibank - user name provided
+2022-10-01 16:38:15,020 [main] INFO uibank - password provided
+2022-10-01 16:39:33,022 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:39:37,115 [main] INFO uibank - Loan Applied
+2022-10-01 16:39:50,409 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:39:54,437 [main] INFO uibank - Loan Applied
+2022-10-01 16:40:11,368 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:40:15,381 [main] INFO uibank - Loan Applied
+2022-10-01 16:40:36,137 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:40:40,205 [main] INFO uibank - Loan Applied
+2022-10-01 16:40:51,783 [main] INFO uibank - User logged in
+2022-10-01 16:40:53,598 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:40:53,600 [main] INFO uibank - From option provided
+2022-10-01 16:41:05,712 [main] INFO uibank - User logged in
+2022-10-01 16:41:07,143 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:41:07,719 [main] INFO uibank - TO option provided
+2022-10-01 16:41:19,504 [main] INFO uibank - User logged in
+2022-10-01 16:41:20,721 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:41:21,551 [main] INFO uibank - From option provided
+2022-10-01 16:41:21,716 [main] INFO uibank - TO option provided
+2022-10-01 16:41:21,814 [main] INFO uibank - Amount entered
+2022-10-01 16:41:22,752 [main] INFO uibank -  Conformation Required
+2022-10-01 16:41:25,783 [main] INFO uibank - Amount Transfered
+2022-10-01 16:48:39,663 [main] INFO uibank - Browser Opened
+2022-10-01 16:48:39,935 [main] INFO uibank - Verifying loginpage Tittle test
+2022-10-01 16:48:40,115 [main] INFO uibank - verifying login logo test
+2022-10-01 16:48:40,530 [main] INFO uibank - Verified Logo
+2022-10-01 16:48:41,453 [main] INFO uibank - username and password entered
+2022-10-01 16:48:41,460 [main] INFO uibank - Browser closed
+2022-10-01 16:49:11,652 [main] INFO uibank - user name provided
+2022-10-01 16:49:11,862 [main] INFO uibank - password provided
+2022-10-01 16:50:23,475 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:50:27,583 [main] INFO uibank - Loan Applied
+2022-10-01 16:50:42,418 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:50:46,445 [main] INFO uibank - Loan Applied
+2022-10-01 16:51:05,433 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:51:09,458 [main] INFO uibank - Loan Applied
+2022-10-01 16:51:26,571 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 16:51:30,611 [main] INFO uibank - Loan Applied
+2022-10-01 16:51:50,261 [main] INFO uibank - User logged in
+2022-10-01 16:51:51,645 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:51:51,647 [main] INFO uibank - From option provided
+2022-10-01 16:52:07,034 [main] INFO uibank - User logged in
+2022-10-01 16:52:08,421 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:52:09,608 [main] INFO uibank - TO option provided
+2022-10-01 16:52:20,258 [main] INFO uibank - User logged in
+2022-10-01 16:52:21,860 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 16:52:22,599 [main] INFO uibank - From option provided
+2022-10-01 16:52:22,788 [main] INFO uibank - TO option provided
+2022-10-01 16:52:23,021 [main] INFO uibank - Amount entered
+2022-10-01 16:52:23,355 [main] INFO uibank -  Conformation Required
+2022-10-01 16:52:26,367 [main] INFO uibank - Amount Transfered
+2022-10-01 16:52:36,791 [main] INFO uibank - First  name provided
+2022-10-01 16:52:36,901 [main] INFO uibank - Mittle provided
+2022-10-01 16:52:37,072 [main] INFO uibank - middle  name provided
+2022-10-01 16:52:37,297 [main] INFO uibank - Last name provided
+2022-10-01 16:52:37,452 [main] INFO uibank - Gender provided
+2022-10-01 16:52:37,642 [main] INFO uibank - Employement details provided
+2022-10-01 16:52:37,827 [main] INFO uibank - Date OF Birth  provided
+2022-10-01 16:52:37,963 [main] INFO uibank - Marital provided
+2022-10-01 16:52:38,204 [main] INFO uibank - Number of Dependent provided
+2022-10-01 16:52:38,593 [main] INFO uibank - User name provided
+2022-10-01 16:52:38,869 [main] INFO uibank - Mail id provided
+2022-10-01 16:52:39,042 [main] INFO uibank - Password provided
+2022-10-01 16:52:39,140 [main] INFO uibank - Register submit button clicked
+2022-10-01 16:52:44,168 [main] INFO uibank - New User was Registered
+2022-10-01 16:52:56,465 [main] INFO uibank - USer Landed in New Account Creation page
+2022-10-01 16:53:12,968 [main] INFO uibank - New USer Name provided
+2022-10-01 16:53:13,143 [main] INFO uibank - Accoount type provided
+2022-10-01 16:53:15,248 [main] INFO uibank - submit button clicked
+2022-10-01 16:53:18,395 [main] INFO uibank - New Account was created
+2022-10-01 19:45:17,814 [main] INFO uibank - user name provided
+2022-10-01 19:45:18,285 [main] INFO uibank - password provided
+2022-10-01 19:45:21,887 [main] WARN uibank - Invalid credential entered
+2022-10-01 19:45:21,889 [main] INFO uibank - login failed
+2022-10-01 19:45:22,757 [main] INFO uibank - screenshot Taken
+2022-10-01 19:47:53,290 [main] INFO uibank - user name provided
+2022-10-01 19:47:55,375 [main] INFO uibank - password provided
+2022-10-01 19:52:04,581 [main] INFO uibank - user name provided
+2022-10-01 19:52:25,577 [main] INFO uibank - screenshot Taken
+2022-10-01 20:18:49,588 [main] INFO uibank - screenshot Taken
+2022-10-01 20:24:35,197 [main] INFO uibank - Browser Opened
+2022-10-01 20:24:35,571 [main] INFO uibank - Verifying loginpage Tittle test
+2022-10-01 20:24:35,768 [main] INFO uibank - verifying login logo test
+2022-10-01 20:24:36,137 [main] INFO uibank - Verified Logo
+2022-10-01 20:24:36,883 [main] INFO uibank - username and password entered
+2022-10-01 20:24:36,897 [main] INFO uibank - Browser closed
+2022-10-01 20:25:08,233 [main] INFO uibank - user name provided
+2022-10-01 20:25:08,446 [main] INFO uibank - password provided
+2022-10-01 20:25:11,648 [main] WARN uibank - Invalid credential entered
+2022-10-01 20:25:11,650 [main] INFO uibank - login failed
+2022-10-01 20:25:12,438 [main] INFO uibank - screenshot Taken
+2022-10-01 20:26:06,295 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 20:26:10,348 [main] INFO uibank - Loan Applied
+2022-10-01 20:26:28,523 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 20:26:32,561 [main] INFO uibank - Loan Applied
+2022-10-01 20:27:01,184 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 20:27:05,238 [main] INFO uibank - Loan Applied
+2022-10-01 20:27:28,284 [main] INFO uibank - Customer Details were imported from Excel sheet
+2022-10-01 20:27:32,340 [main] INFO uibank - Loan Applied
+2022-10-01 20:27:45,372 [main] INFO uibank - User logged in
+2022-10-01 20:27:47,160 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 20:27:47,167 [main] INFO uibank - From option provided
+2022-10-01 20:28:03,804 [main] INFO uibank - User logged in
+2022-10-01 20:28:05,458 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 20:28:06,284 [main] INFO uibank - TO option provided
+2022-10-01 20:28:18,366 [main] INFO uibank - User logged in
+2022-10-01 20:28:19,867 [main] INFO uibank - User landed to Transfer fund page
+2022-10-01 20:28:20,748 [main] INFO uibank - From option provided
+2022-10-01 20:28:21,045 [main] INFO uibank - TO option provided
+2022-10-01 20:28:21,272 [main] INFO uibank - Amount entered
+2022-10-01 20:28:21,915 [main] INFO uibank -  Conformation Required
+2022-10-01 20:28:24,941 [main] INFO uibank - Amount Transfered
+2022-10-01 20:28:37,479 [main] INFO uibank - First  name provided
+2022-10-01 20:28:37,689 [main] INFO uibank - Mittle provided
+2022-10-01 20:28:37,902 [main] INFO uibank - middle  name provided
+2022-10-01 20:28:38,102 [main] INFO uibank - Last name provided
+2022-10-01 20:28:38,267 [main] INFO uibank - Gender provided
+2022-10-01 20:28:38,451 [main] INFO uibank - Employement details provided
+2022-10-01 20:28:38,685 [main] INFO uibank - Date OF Birth  provided
+2022-10-01 20:28:38,870 [main] INFO uibank - Marital provided
+2022-10-01 20:28:39,152 [main] INFO uibank - Number of Dependent provided
+2022-10-01 20:28:39,501 [main] INFO uibank - User name provided
+2022-10-01 20:28:39,784 [main] INFO uibank - Mail id provided
+2022-10-01 20:28:40,001 [main] INFO uibank - Password provided
+2022-10-01 20:28:40,091 [main] INFO uibank - Register submit button clicked
+2022-10-01 20:28:45,144 [main] INFO uibank - New User was Registered
+2022-10-01 20:28:58,625 [main] INFO uibank - USer Landed in New Account Creation page
+2022-10-01 20:29:10,852 [main] INFO uibank - New USer Name provided
+2022-10-01 20:29:10,991 [main] INFO uibank - Accoount type provided
+2022-10-01 20:29:13,165 [main] INFO uibank - submit button clicked
+2022-10-01 20:29:16,371 [main] INFO uibank - New Account was created
